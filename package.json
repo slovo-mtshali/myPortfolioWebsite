@@ -1,0 +1,11 @@
+{
+  "name": "mywork",
+  "version": "1.0.0",
+  "description": "responsive_portfolio",
+  "main": "\\",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Lwazi",
+  "license": "MIT"
+}
